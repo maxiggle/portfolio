@@ -4,12 +4,12 @@
 
 | Name                    | Godwin Alexander Ekainu                                      |
 | ----------------------- | ------------------------------------------------------------ |
-| Age                     | 21                                                           |
+| Age                     | 22                                                           |
 | Working Experience      | 4                                                            |
 | Marital Status          | Single                                                       |
 | Location                | Port Harcourt, Nigeria                                       |
-| Techincal Writing tools | Markdown,Gitbook,Readme.io,Google docs                       |
-| Language                | <mark>Flutter</mark>  <mark>Dart</mark> <mark> JavaScript</mark> <mark>C++</mark> |
+| Techincal Writing tools | Markdown,Gitbook,Readme.io,Google docs, Notion               |
+| Language/ framework     | <mark>Flutter</mark>  <mark>Dart</mark> <mark> JavaScript</mark> <mark>C++</mark> <mark>Swift</mark> <mark>Vapor</mark> |
 
 
 
@@ -21,17 +21,23 @@
 
 ## Skills Point
 
-- Familiar with using Mac/Linux/Windows
+- Familiar with using Linux
 
 - Familiar with Git version control system
 
-- Familiar with MVC Architecture
-
 - Familiar with Technical Writing and documentation
+
+- Notion
+
+- Worked with Saas companies (Ninetailed.io, ButterCMS, Contentrain, Codemagic)
+
+- Familiar with Headless CMS
+
+- Familiar with MVC Architecture
 
 - Familiar with BloC for <mark>Flutter</mark> state management
 
-- Familiar with CI/CD pipeline
+- Familiar with CI/CD
 
 - Familiar with <mark>Dart</mark>
 
@@ -41,18 +47,17 @@
 
 - Entry level <mark>React.js</mark> <mark>Next.js</mark> 
 
-- Familiar with Headless CMS
-
   
 
 ## Positions
 
-| Time                        | Company name | Position                                 |
-| --------------------------- | ------------ | ---------------------------------------- |
-| April 2022 - Present        | Codemagic    | Flutter Technical Writer (Freelance)     |
-| April 2022 - September 2022 | Ninetailed   | Technical Content Writer (Contractor)    |
-| October 2021 - March 2022   | Chigisoft    | Mobile Developer Intern (CSC Internship) |
-| April 2021 - September 2021 | Chigisoft    | Mobile Developer Intern                  |
+| Time                        | Company name | Position                              |
+| --------------------------- | ------------ | ------------------------------------- |
+| Feb 2023 - Present          | ButterCMS    | Technical writer                      |
+| April 2022                  | Codemagic    | Flutter Technical Writer              |
+| April 2022 - September 2022 | Ninetailed   | Technical Content Writer (Contractor) |
+| October 2021 - March 2022   | Chigisoft    | Mobile Developer                      |
+| April 2021 - September 2021 | Chigisoft    | Mobile Developer Intern               |
 
 
 
